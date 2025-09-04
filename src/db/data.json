@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "id": "4fic8jb2zoimf5k5jag",
+      "title": "Tech Conference 2024",
+      "description": "Annual technology conference featuring the latest innovations",
+      "date": "2024-06-15",
+      "time": "09:00",
+      "location": "Convention Center, Downtown",
+      "category": "Conference",
+      "attendees": 23,
+      "createdBy": "siujhbqpnkdmf5k6w88"
+    },
+    {
+      "id": "b4zzcf2rw6umf5k5jag",
+      "title": "React Workshop",
+      "description": "Hands-on workshop for learning React.js fundamentals",
+      "date": "2024-05-20",
+      "time": "14:00",
+      "location": "Tech Hub Campus",
+      "category": "Workshop",
+      "attendees": 25,
+      "createdBy": "473x87cmd19mf5k6jax"
+    },
+    {
+      "id": "5eepnyj2mi4mf5k5jag",
+      "title": "Startup Meetup Night",
+      "description": "Networking and idea-sharing event for local startup founders",
+      "date": "2024-07-05",
+      "time": "18:30",
+      "location": "Innovation Garage, Block A",
+      "category": "Meetup",
+      "attendees": 40,
+      "createdBy": "d3espkrj0cfmf5k6pnp"
+    },
+    {
+      "id": "9ydk341j9djmf5k5jag",
+      "title": "AI & ML Conference",
+      "description": "Conference exploring the impact of AI and Machine Learning on industries",
+      "date": "2024-08-12",
+      "time": "10:00",
+      "location": "City Tech Center",
+      "category": "Conference",
+      "attendees": 75,
+      "createdBy": "user4"
+    },
+    {
+      "id": "5pa148vtjrfmf5k5jag",
+      "title": "Next.js Advanced Workshop",
+      "description": "Deep dive into building high-performance applications with Next.js",
+      "date": "2024-09-10",
+      "time": "13:00",
+      "location": "Online - Zoom",
+      "category": "Workshop",
+      "attendees": 60,
+      "createdBy": "user5"
+    },
+    {
+      "id": "qopn2d136f8mf5k5jag",
+      "title": "Community Dev Meetup",
+      "description": "Casual meetup for local developers to discuss projects and ideas",
+      "date": "2024-10-01",
+      "time": "17:00",
+      "location": "Open Source Café",
+      "category": "Meetup",
+      "attendees": 32,
+      "createdBy": "user6"
+    }
+  ]
+}
